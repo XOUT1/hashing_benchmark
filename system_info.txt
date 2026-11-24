@@ -1,0 +1,16 @@
+﻿TimestampUTC: 2026-11-23T19:11:16.3329104Z
+Manufacturer: LENOVO
+Model: 83DV
+CPU_Name: 13th Gen Intel(R) Core(TM) i7-13650HX
+CPU_Cores: 14
+CPU_LogicalProcessors: 20
+CPU_MaxClockMHz: 2600
+CPU_L2CacheKB: 11776
+CPU_L3CacheKB: 24576
+TotalRAM_GB: 15.78
+OS_Caption: Microsoft Windows 11 Pro
+OS_Version: 10.0.26200
+OS_Build: 26200
+PowerShell_Version: 5.1.26100.9818
+PowerPlan: Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)
+BatteryStatus: 2
